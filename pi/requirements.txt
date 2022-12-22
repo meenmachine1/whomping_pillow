@@ -1,0 +1,9 @@
+boto3==1.26.35
+botocore==1.29.35
+jmespath==1.0.1
+pyserial==3.5
+python-dateutil==2.8.2
+python-vlc==3.0.18121
+s3transfer==0.6.0
+six==1.16.0
+urllib3==1.26.13

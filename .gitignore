@@ -1,0 +1,14 @@
+# Cache
+**__pycache__
+pi/audio/
+
+# VSCode extension files
+.vscode
+.picowgo
+.picogo
+
+# Config files
+**.json
+
+# Never Ignore
+! **.empty
